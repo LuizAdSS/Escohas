@@ -1,0 +1,13 @@
+
+:root{
+    --amarelo:#FAF3DD;
+    --verdeclaro:#C8D5B9;
+    --verdemedio:#8FC0A9;
+    --verdeagua:#68B0AB;
+    --titulo: "Libre Baskerville", serif;
+    --texto: "Josefin Sans", sans-serif;
+}
+body{
+   background-color: var(--verdemedio);
+   font-family: var(--titulo);
+}
