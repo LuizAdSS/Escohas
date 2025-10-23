@@ -37,3 +37,6 @@ button:hover{
     color: var(--verdeagua);
     transition: 0.5s;
 }
+passo{
+    font-size: 50px;
+}
